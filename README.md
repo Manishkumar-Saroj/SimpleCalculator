@@ -1,2 +1,3 @@
-![image](https://github.com/Manishkumar-Saroj/SimpleCalculator/assets/126165524/11b31583-b971-4d7f-9655-28b61f08f6ce)
+![image](https://github.com/Manishkumar-Saroj/SimpleCalculator/assets/126165524/dda5ac5b-3756-4a23-82ce-2c78b917324f)
+
 # SimpleCalculator
