@@ -41,6 +41,11 @@
     gap: 10px;
   }
   
+  .equalBtn{
+    background-color: #19282F;
+    color: #F3F3F3;
+  }
+
   button {
     background-color: #FFB534;
     border: 2px inset ;
