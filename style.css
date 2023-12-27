@@ -5,7 +5,8 @@
   }
   
   body {
-    height: 100vh;
+    margin-top: 10vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
